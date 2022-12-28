@@ -7,7 +7,7 @@
 🎂 19 Years old<br>👨‍🎓 Studying informatics at Technical University of Košice<br>🗣 Languages => Slovak(Native), English(B2), German(B1) <br>🧐Focused on  => Full stack web dev<br>🦉Want to learn => Game dev, computer vision<br><br>👅 Languages {programming} => JavaScript, Python, C, C#<br>🖼  Frameworks => React, Express, Bootstrap<br>🖥 Databases => MySQL, Mongo 
 <br>
 
-# <br>💻 My web stack:
+# <br>💻 My stack:
 <strong>MERN</strong> =>  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) 
