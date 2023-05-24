@@ -24,12 +24,11 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) 
 
 
-<div align="center">
-  <h1><br>📊 GitHub Stats:</h1>
-  <img src="https://github-readme-stats.vercel.app/api?username=Maikelek&theme=react&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maikelek&theme=react&hide_border=false" alt="GitHub Streaks"><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maikelek&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 
-  [![](https://visitcount.itsvg.in/api?id=Maikelek&icon=7&color=0)](https://visitcount.itsvg.in)
-</div>
+# <br>📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Maikelek&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Maikelek&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maikelek&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+[![](https://visitcount.itsvg.in/api?id=Maikelek&icon=7&color=0)](https://visitcount.itsvg.in)
