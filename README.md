@@ -4,7 +4,7 @@
 
 ## 🤵 About Me:
 <br>
-🎂 19 Years old<br>👨‍🎓 Studying informatics at Technical University of Košice<br>🗣 Languages => Slovak(Native), English(B2), German(B1) <br>🧐Focused on  => Full stack web dev<br>🦉Want to learn => Game dev, computer vision<br><br>👅 Languages {programming} => JavaScript, Python, C, C#<br>🖼  Frameworks => React, Express, Bootstrap<br>🖥 Databases => MySQL, Mongo 
+🎂 19 Years old<br>👨‍🎓 Studying informatics at Technical University of Košice<br>🗣 Languages => Slovak(Native), English(B2), German(B1), Russian(Conversational) <br>🧐Focused on  => Full stack web dev<br>🦉Want to learn => Game dev, computer vision<br><br>👅 Languages {programming} => JavaScript, Python, C, C#<br>🖼  Frameworks => React, Express, Bootstrap<br>🖥 Databases => MySQL, Mongo 
 <br>
 
 # <br>💻 My stack:
