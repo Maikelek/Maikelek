@@ -8,7 +8,7 @@
 🎓 Studying informatics at Technical University of Košice<br>
 🗣 Languages => Slovak(Native), English(B2), German(B1), Russian(Conversational) <br>
 🧐 Focused on  => Full stack web development <br>
-🦉 Want to learn => Algorithms and Data Structures<br><br>
+🦉 Want to learn => Algorithms and Data Structures<br>
 🧠 Personality => Architect (INTJ-T)
 
 ## 🏆 Hobbies <br>
