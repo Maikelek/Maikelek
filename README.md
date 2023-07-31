@@ -7,8 +7,9 @@
 🎂 19 Years old<br>
 🎓 Studying informatics at Technical University of Košice<br>
 🗣 Languages => Slovak(Native), English(B2), German(B1), Russian(Conversational) <br>
-🧐Focused on  => Full stack web development <br>
-🦉Want to learn => Algorithms and Data Structures<br><br>
+🧐 Focused on  => Full stack web development <br>
+🦉 Want to learn => Algorithms and Data Structures<br><br>
+🧠 Personality => Architect (INTJ-T)
 
 ## 🏆 Hobbies <br>
 🖥️ Programming <br>
