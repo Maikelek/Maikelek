@@ -2,11 +2,15 @@
 <div align="center">
   <h1>Hi there, I'm Marián Zelinka! 👋</h1>
   <p>
-    <a href="https://discord.gg/a2g4xpdfAb"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"></a>
-    <a href="https://www.linkedin.com/in/marián-zelinka-96a46b25a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/in/marián-zelinka-96a46b25a/">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:marian.zelinka@protonmail.com">
+      <img src="https://img.shields.io/badge/Email-%230077B5.svg?logo=mail.ru&logoColor=white" alt="Email">
+    </a>
   </p>
-  <p><strong>E-mail</strong>: marian.zelinka@protonmail.com</p>
 </div>
+
 
 <!-- About Me Section -->
 ## 🤵 About Me:
