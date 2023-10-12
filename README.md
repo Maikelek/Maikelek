@@ -14,7 +14,7 @@
 
 <!-- About Me Section -->
 ## 🤵 About Me:
-- 🎂 19 Years Old
+- 🎂 20 Years Old
 - 🎓 Studying Informatics at Technical University of Košice
 - 🗣 Languages: Slovak (Native), English (B2), German (B1), Russian (Conversational)
 - 🧐 Focused on: Full Stack Web Development
