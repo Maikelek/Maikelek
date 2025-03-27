@@ -17,8 +17,7 @@
 - 🎂 21 Years Old
 - 🎓 Studying Informatics at Technical University of Košice
 - 🗣 Languages: Slovak (Native), English (B2), German (B1), Russian (Conversational)
-- 🧐 Focused on: Full Stack Web Development
-- 🦉 Want to Learn: Algorithms and Data Structures
+- 🧐 Focused on: Building scalable web applications with modern technologies
 - 🧠 Personality: Architect (INTJ-T)
 
 <!-- Hobbies Section -->
@@ -52,6 +51,10 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%2331575C.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+
+**Operating Systems**
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=flat-square&logo=windows&logoColor=white)
 
 <!-- GitHub Stats Section -->
 ## 📊 GitHub Stats:
